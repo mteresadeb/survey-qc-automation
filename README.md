@@ -95,7 +95,7 @@ No other changes to the code are required.
 
 These routines were developed and applied across more than 10 national surveys in Brazil, including studies conducted for international academic and research organizations. The `survey_qc.py` script is designed for production use with real field data; the notebook uses synthetic data to demonstrate the full pipeline without exposing any respondent information.
 
----
+--- 
 
 ## Author
 
